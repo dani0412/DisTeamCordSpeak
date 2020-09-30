@@ -21,3 +21,5 @@ Rename the `.env.example` file to `.env` and edit its contents to include your D
 ```bash
 node index.js
 ```
+
+[![Run on Repl.it](https://repl.it/badge/github/AlexVanderbist/DisTeamCordSpeak)](https://repl.it/github/AlexVanderbist/DisTeamCordSpeak)
